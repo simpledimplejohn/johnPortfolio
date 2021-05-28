@@ -13,3 +13,8 @@
   padding: 20px;
   width: 80%;
 }
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
