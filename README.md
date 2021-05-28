@@ -14,7 +14,7 @@
 
 _With this website I am exploring different ways to arrange content across a website using Bootstrap and traditional CSS.  This site also uses all of the most common HTML tags and as well as divs and spans.
 
-Also a responsive gallery was built on the gallery page using settings from: (https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)_
+Also a responsive gallery was built on the gallery page using settings from: [Responsive Image Gallery] (https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp) _
 
 ## Setup/Installation Requirements
 
