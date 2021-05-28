@@ -13,3 +13,9 @@
   padding: 20px;
   width: 80%;
 }
+.grid-container {
+  disply: grid;
+  grid-template-columns: repeat(4, 200px);
+  grid-auto-rows: minmax(150px; auto);
+  
+}
