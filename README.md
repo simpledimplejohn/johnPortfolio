@@ -36,7 +36,7 @@ _[MIT](https://opensource.org/licenses/MIT)_
 
 ## Github Pages Link
 
-[Portfolio](simpledimplejohn.github.io/johnPortfolio)
+[Portfolio](https://simpledimplejohn.github.io/johnPortfolio)
 
 ## Contact Information
 
