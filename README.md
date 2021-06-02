@@ -21,7 +21,7 @@ _Also a responsive gallery was built on the gallery page using settings from:_
 ## Setup/Installation Requirements
 
 * _Clone repository form github_
-* _Launch in VS Code_
+* _Open index.html_
 * _Copy path to Chrome Browser_
 
 
@@ -36,7 +36,7 @@ _[MIT](https://opensource.org/licenses/MIT)_
 
 ## Github Pages Link
 
-[GithubPages](simpledimplejohn.github.io/johnPortfolio)
+simpledimplejohn.github.io/johnPortfolio
 
 ## Contact Information
 
